@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I+am+Prerna+Kumari+Sharma)](https://git.io/typing-svg)
-- 👋 Hi, I’m @prerna12github
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
 - 💞 I know C and C++ language
