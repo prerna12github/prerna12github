@@ -13,3 +13,15 @@ You can click the Preview link to take a look at your changes.
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 </p>
 </div>
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" width="40%" />
+</p>
+
+---
