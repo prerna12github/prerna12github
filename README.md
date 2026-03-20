@@ -95,4 +95,6 @@
 
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prerna12github&label=Profile%20views&color=0e75b6&style=round" alt="prerna12github" /> </p>
+
 <!-- Proudly customized for Prerna's GitHub Profile README -->
