@@ -23,7 +23,6 @@
 - 🌱 I’m currently learning **React, Next.js, JavaScript, TypeScript**
 - 🎓 I’m currently pursuing **Master of Computer Applications (MCA)**
 - 💻 I enjoy building **responsive and modern web applications**
-- 🚀 My goal is to become a **Full Stack Web Developer**
 - ✨ I love learning new technologies and building creative projects
 
 ---
