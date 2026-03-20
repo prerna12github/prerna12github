@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 </div>
 ## 💫 About Me:
+
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **React, Next.js, JavaScript, TypeScript**
 - 🎓 I’m currently pursuing **Masters in Computer Application**
