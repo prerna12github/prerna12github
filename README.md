@@ -58,8 +58,8 @@
 
 ### ⚙️ Backend / Tools
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
 
 # 📊 GitHub Stats
 
