@@ -65,11 +65,11 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=prerna12github&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prerna12github&theme=radical&hide_border=false)
 
-![](https://nirzak-streak-stats.vercel.app/?user=prerna12github&theme=radical&hide_border=false)
+![](https://streak-stats.demolab.com?user=prerna12github&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prerna12github&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prerna12github&theme=radical&hide_border=false&layout=compact)
 
 </div>
 
