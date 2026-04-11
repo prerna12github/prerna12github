@@ -78,9 +78,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prerna12github&theme=radical&no-frame=true&margin-w=10&v=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=prerna12github&theme=radical&no-frame=true&row=1&column=4" />
 </p>
----
 
 # ✍️ Random Dev Quote
 
