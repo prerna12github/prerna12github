@@ -78,7 +78,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna12github&theme=radical&hide_border=true&layout=compact" />
 
 </div>
----
 
 # 🏆 GitHub Trophies
 
