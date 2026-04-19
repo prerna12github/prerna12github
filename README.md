@@ -65,14 +65,19 @@
 
 <div align="center">
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=prerna12github&theme=radical&hide_border=false)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prerna12github&theme=radical" />
 
-![](https://streak-stats.demolab.com?user=prerna12github&theme=radical&hide_border=false)
+<br><br>
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=prerna12github&theme=radical&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=prerna12github&theme=radical&hide_border=true&show_icons=true" />
+
+<img src="https://streak-stats.demolab.com?user=prerna12github&theme=radical&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna12github&theme=radical&hide_border=true&layout=compact" />
 
 </div>
-
 ---
 
 # 🏆 GitHub Trophies
