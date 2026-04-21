@@ -71,8 +71,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=prerna12github&theme=radical&hide_border=true&show_icons=true" />
 
-<img src="https://streak-stats.demolab.com?user=prerna12github&theme=radical&hide_border=true&v=1" />
-
+[<img src="https://streak-stats.demolab.com?user=prerna12github&theme=radical&hide_border=true&v=1" />
+](https://streak-stats.demolab.com?user=prerna12github&theme=radical&hide_border=true&v=2)
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna12github&theme=radical&hide_border=true&layout=compact" />
