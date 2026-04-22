@@ -61,21 +61,19 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prerna12github&theme=radical" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prerna12github&theme=radical&hide_border=true&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
 
-[<img src="https://streak-stats.demolab.com?user=prerna12github&theme=radical&hide_border=true&v=1" />
-](https://streak-stats.demolab.com?user=prerna12github&theme=radical&hide_border=true&v=2)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" height="180em"/>
+
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna12github&theme=radical&hide_border=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
