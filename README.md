@@ -102,7 +102,7 @@
   <img src="https://komarev.com/ghpvc/?username=prerna12github&label=Profile%20Views&color=ff69b4&style=flat" />
 </p>
 
-<p align="center">
+[<p align="center">
   <img src="https://raw.githubusercontent.com/prerna12github/prerna12github/output/github-contribution-grid-snake.svg" />
-</p>
+</p>](https://raw.githubusercontent.com/prerna12github/prerna12github/output/github-contribution-grid-snake.svg)
 <!-- Proudly customized for Prerna's GitHub Profile README -->
