@@ -100,7 +100,7 @@
 
 <div align="center">
 
-### ✨ Thanks for visiting my profile! ✨
+### ✨ Thankyou for visiting my profile! ✨
 ### 💖 Keep Learning • Keep Building • Keep Growing 💖
 
 </div>
