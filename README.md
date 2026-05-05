@@ -70,17 +70,13 @@
 ## 🚀 GitHub Stats
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prerna12github&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=prerna12github&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="180em"/>
+
+<img src="https://streak-stats.demolab.com?user=prerna12github&theme=radical&hide_border=true" height="180em"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prerna12github&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prerna12github&theme=radical&hide_border=true" height="180em"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna12github&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prerna12github&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
