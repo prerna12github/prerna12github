@@ -11,7 +11,9 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="350" alt="Girl coding animation" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/08fa9f5b-dcb7-4f5e-8721-203468dda5f3"
+       width="450"
+       alt="Anime girl coding seriously" />
 </p>
 
 <div align="center">
